@@ -54,7 +54,7 @@ set smartcase
 inoremap jj <ESC>
 
 let mapleader = "\<space>"
-nnoremap <Leader>q :qa<CR>
+nnoremap <Leader>q :q<CR>
 nnoremap <Leader>w :w<CR>
 
 nnoremap <leader>n :NERDTreeToggle<CR>
