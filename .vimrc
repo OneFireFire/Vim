@@ -21,7 +21,7 @@ set number
 set cursorline
 set mouse=a
 set encoding=utf8
-set clipboard=unamed
+set clipboard=unnamed
 set backspace=indent,eol,start
 
 " Files, backup and undo
